@@ -19,10 +19,5 @@
   "cmake.buildDirectory": "${workspaceFolder}/../../build",
   "C_Cpp.default.compileCommands": "${workspaceFolder}/../../build/compile_commands.json",
   "C_Cpp.autoAddFileAssociations": false,
-  "python.autoComplete.extraPaths": [
-    "/opt/ros/noetic/lib/python3/dist-packages"
-  ],
-  "python.analysis.extraPaths": [
-    "/opt/ros/noetic/lib/python3/dist-packages"
-  ]
+  "ros.distro": "noetic"
 }
